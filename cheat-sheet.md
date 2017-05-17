@@ -25,3 +25,42 @@ clear or CONTROL L
 
 8. EXIT bash
 EXIT or CONTROL D
+
+9. using ls to see if the file or directory exists
+ls [filename]
+
+10. using touch to create file
+TOUCH [filename]
+
+11. list all files of specific format
+ls * .txt
+
+12. list long form of the file in detail
+ls -l * .txt
+
+13. to hide files
+$ echo "*.txt" > .gitignore
+$ cat .gitignore
+*.txt
+
+/*////
+
+14. display all hidden files
+ls -a
+
+15. rename or move the file
+mv [filename] [filename]
+
+16. copy file
+cp [filename] [filename]
+
+17. delete file
+rm [filename]
+
+18. tab completion
+type then hit tab
+
+19. RUn previous command
+!!
+
+20. 
