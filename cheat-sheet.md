@@ -63,4 +63,5 @@ type then hit tab
 19. RUn previous command
 !!
 
-20. 
+20. make directory
+mkdir [directoryname]
